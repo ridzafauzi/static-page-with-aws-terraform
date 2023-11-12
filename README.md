@@ -1,5 +1,5 @@
 # static-page-with-aws-terraform
-1. Using Terraform to deploy a static page.
+Using Terraform to deploy a static page.
 
 Deployment steps
 1. Route53 hosted zone already deployed with custom domain sweetserenity.net.
